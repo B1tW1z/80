@@ -11,7 +11,7 @@ window.portfolioData = {
     theme: "dark", // Default theme: "light" or "dark"
     showThemeToggle: true,
     gtmId: "GTM-KCQ2FL36",
-    canonicalUrl: "https://b1tw1z.github.io/"
+    canonicalUrl: "https://abhinav.page/"
   },
   personal: {
     name: "Abhinav Patel",

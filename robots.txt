@@ -1,0 +1,26 @@
+# ============================================
+# robots.txt — B1TW1Z Portfolio
+# https://abhinav.page/
+# ============================================
+
+# Allow all crawlers full access
+User-agent: *
+Allow: /
+
+# Google-specific (image & video indexing)
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/
+
+# Bing
+User-agent: Bingbot
+Allow: /
+
+# Block crawlers from the .git directory
+User-agent: *
+Disallow: /.git/
+
+# Sitemap location
+Sitemap: https://abhinav.page/sitemap.xml
